@@ -8,6 +8,6 @@ class Constantes {
     companion object{
         val API_URL = "https://api.themoviedb.org/3/"
         val API_IMAGE_URL = "https://image.tmdb.org/t/p/w500/"
-        val API_KEY = "b3597ba8495b6f69a741d1b5cd795dd4"
+        val API_KEY = ""
     }
 }
